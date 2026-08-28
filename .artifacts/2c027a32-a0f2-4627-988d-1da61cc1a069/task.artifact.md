@@ -1,0 +1,3 @@
+- [x] Add `POST_NOTIFICATIONS` and improve permission trigger in `DashboardScreen.kt`
+- [x] Fix API compatibility and add session checks in `LocationTrackingService.kt`
+- [x] Verify build and functionality
